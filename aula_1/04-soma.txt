@@ -1,0 +1,8 @@
+// gcc 04-soma.c -o prog.exe
+
+#include <stdio.h>
+
+int main () {
+
+  return 0;
+}
